@@ -1,5 +1,5 @@
 // Importa o mongoose, nossa ferramenta para modelar e interagir com o MongoDB
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 // Função assíncrona para conectar ao banco de dados
 const connectDB = async () => {
@@ -17,4 +17,4 @@ const connectDB = async () => {
 };
 
 // Exporta a função para que ela possa ser usada em outros arquivos (como o server.js)
-module.exports = connectDB;
+export default connectDB;

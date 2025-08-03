@@ -1,11 +1,11 @@
 // Carrega as variáveis de ambiente do arquivo .env
-require('dotenv').config();
+import 'dotenv/config';
 
 // Importa o framework Express
-const express = require('express');
+import express from 'express';
 
 // Importa nossa função de conexão com o banco de dados
-const connectDB = require('./src/config/db.config');
+import connectDB from './src/config/db.config.js';
 
 // Executa a função para conectar ao banco de dados
 connectDB();

@@ -4,7 +4,7 @@
   "description": "Software de ajuda comunitaria",
   "license": "ISC",
   "author": "Robson Valentim",
-  "type": "commonjs",
+  "type": "module",
   "main": "server.js",
   "directories": {
     "test": "tests"
