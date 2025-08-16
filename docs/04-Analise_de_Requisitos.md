@@ -11,7 +11,7 @@
 | RF5 | Busca por Serviços | Busca por bairro, categoria ou palavra-chave. |
 | RF6 | Cadastro de Eventos | Cadastro de eventos comunitários. |
 | RF7 | Cadastro de Comércios | Cadastro de negócios locais e seus produtos. |
-| RF8 | Divulgação de Oportunidades | Cadastro de cursos, vagas e oficinas disponíveis. |
+| RF8 | Divulgação de Oportunidades | Cadastro e divulgação de oportunidades para a comunidade, incluindo vagas de emprego formal, trabalho informal (bicos), freelas, cursos e oficinas. |
 | RF9 | Avaliação de Serviços | Sistema de avaliação e comentários para serviços utilizados. |
 | RF10 | Painel Administrativo | Visualização de métricas, relatórios e gerenciamento. |
 
@@ -20,7 +20,7 @@
 | ID | Tipo | Descrição |
 | :--- | :--- | :--- |
 | RNF1 | Linguagem | O back-end será desenvolvido em JavaScript usando Node.js e Express.js. |
-| RNF2 | Banco de Dados | O sistema poderá utilizar MongoDB. |
+| RNF2 | Banco de Dados | O sistema utilizará MongoDB pela sua flexibilidade. |
 | RNF3 | Desempenho | A API deve retornar respostas em até 500ms na maioria das requisições. |
 | RNF4 | Escalabilidade | A arquitetura será preparada para escalar horizontalmente. |
 | RNF5 | Segurança | O sistema utilizará criptografia para senhas (bcrypt), tokens JWT, etc. |
