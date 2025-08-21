@@ -15,7 +15,7 @@ A ordem de prioridade para a entrega das funcionalidades (incrementos) é a segu
 3.  Sistema de doações (cadastro e busca).
 4.  Cadastro e divulgação de eventos comunitários.
 5.  Cadastro de comércios locais.
-6.  Divulgação de oportunidades (vagas, cursos, oficinas).
+6.  Divulgação de oportunidades (trabalho informal, vagas, cursos, oficinas).
 7.  Busca por serviços por localidade e categoria.
 8.  Sistema de comentários e avaliações comunitárias.
 9.  Sistema de autenticação e autorização baseado em perfis.
